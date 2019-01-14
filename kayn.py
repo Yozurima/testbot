@@ -33,3 +33,4 @@ async def marry():
 async def helpmepls():
 	await bot.say('Here are the commands.. Even tho u don.t need them bcs u.ll be my next victim.Taric, marry, kill, idk, love, ping.')
 bot.run('NTMyNjM4MjIxMjM5MTg5NTE0.DxkbPw.lPib6xMkb9JQH8euqlLJKaI1gJc')
+client.run(os.getenv('NTMyNjM4MjIxMjM5MTg5NTE0.DxkbPw.lPib6xMkb9JQH8euqlLJKaI1gJc')
