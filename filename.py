@@ -32,5 +32,5 @@ async def marry():
 @bot.command()
 async def helpmepls():
 	await bot.say('Here are the commands.. Even tho u don.t need them bcs u.ll be my next victim.Taric, marry, kill, idk, love, ping.')
-bot.run('NTMyNjM4MjIxMjM5MTg5NTE0.DxkbPw.lPib6xMkb9JQH8euqlLJKaI1gJc')
+bot.run('NTMyOTk4MDAxMjI0ODQzMjg3.Dx5sZw.NFjrkFvqhgX-2lLrxDN2TNui3w4')
 client.run(os.getenv('Token'))
